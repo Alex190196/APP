@@ -212,7 +212,7 @@ public class Login {
 		frame.getContentPane().add(passwordField);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\Documents\\Eclipse\\APP\\img\\image3.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:/Users/User/git/repository4/APP/img/image3.jpg"));
 		lblNewLabel.setBounds(0, 0, 432, 253);
 		frame.getContentPane().add(lblNewLabel);
 		
